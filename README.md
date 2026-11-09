@@ -61,7 +61,7 @@ A project designed to help pet owners monitor changes in their pets' walking pat
 I'm always interested in learning valuable lessons from other developers/people, connecting with mentors, and collaborating on projects.
 
 - **GitHub:** You're already here!
-- **LinkedIn:** [Profile](www.linkedin.com/in/kavin-krishnasamy-79a38044a)
+- **LinkedIn:** www.linkedin.com/in/kavin-krishnasamy-79a38044a
 - **Email:** kavnkrishnasamy@gmail.com
 
 Thanks for stopping by!
